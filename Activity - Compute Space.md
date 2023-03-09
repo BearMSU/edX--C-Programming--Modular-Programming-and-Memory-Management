@@ -20,8 +20,17 @@ Your program should first read an integer number indicating how many tracking co
 #### Input:
     2
     3 c
-    30 d
+    20 d
     
+#### Output:
+    163 bytes
+
+#### Input:
+    4
+    5 i
+    2 d
+    10 a
+    3 c
 #### Output:
     Invalid tracking code type
     
